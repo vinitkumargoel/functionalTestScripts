@@ -10,14 +10,14 @@
           {
             "arguments": [],
             "keyword": "Given ",
-            "name": "user navigates to \"http://localhost:3004/#/\"",
+            "name": "user navigates to \"http://localhost:8082/#/\"",
             "result": {
               "status": "passed",
-              "duration": 619233
+              "duration": 549695
             },
             "line": 4,
             "match": {
-              "location": "C:\\Optima\\step-definitions\\optima-steps.js:10"
+              "location": "/Users/vinitkumar/Documents/work/functionalTestScripts/step-definitions/optima-steps.js:10"
             }
           },
           {
@@ -26,11 +26,11 @@
             "name": "user enters the login name \"alice\"",
             "result": {
               "status": "passed",
-              "duration": 2293806
+              "duration": 1532604
             },
             "line": 5,
             "match": {
-              "location": "C:\\Optima\\step-definitions\\optima-steps.js:15"
+              "location": "/Users/vinitkumar/Documents/work/functionalTestScripts/step-definitions/optima-steps.js:15"
             }
           },
           {
@@ -39,11 +39,11 @@
             "name": "enters the password \"wonderland\"",
             "result": {
               "status": "passed",
-              "duration": 642266
+              "duration": 468112
             },
             "line": 6,
             "match": {
-              "location": "C:\\Optima\\step-definitions\\optima-steps.js:20"
+              "location": "/Users/vinitkumar/Documents/work/functionalTestScripts/step-definitions/optima-steps.js:20"
             }
           },
           {
@@ -52,11 +52,11 @@
             "name": "click on Sign In button",
             "result": {
               "status": "passed",
-              "duration": 399859
+              "duration": 487589
             },
             "line": 7,
             "match": {
-              "location": "C:\\Optima\\step-definitions\\optima-steps.js:25"
+              "location": "/Users/vinitkumar/Documents/work/functionalTestScripts/step-definitions/optima-steps.js:25"
             }
           },
           {
@@ -65,11 +65,11 @@
             "name": "verify the total debit account balance for alice",
             "result": {
               "status": "passed",
-              "duration": 790277
+              "duration": 783650
             },
             "line": 8,
             "match": {
-              "location": "C:\\Optima\\step-definitions\\optima-steps.js:30"
+              "location": "/Users/vinitkumar/Documents/work/functionalTestScripts/step-definitions/optima-steps.js:30"
             }
           },
           {
@@ -78,11 +78,11 @@
             "name": "verify the total credit account balance for alice",
             "result": {
               "status": "passed",
-              "duration": 4620084
+              "duration": 1027450
             },
             "line": 9,
             "match": {
-              "location": "C:\\Optima\\step-definitions\\optima-steps.js:35"
+              "location": "/Users/vinitkumar/Documents/work/functionalTestScripts/step-definitions/optima-steps.js:35"
             }
           },
           {
@@ -91,11 +91,11 @@
             "name": "user clicks on yes button to optimise his/her savings",
             "result": {
               "status": "passed",
-              "duration": 311504
+              "duration": 291249
             },
             "line": 10,
             "match": {
-              "location": "C:\\Optima\\step-definitions\\optima-steps.js:50"
+              "location": "/Users/vinitkumar/Documents/work/functionalTestScripts/step-definitions/optima-steps.js:50"
             }
           },
           {
@@ -104,11 +104,11 @@
             "name": "user clicks on Agree and Pay button on payout page",
             "result": {
               "status": "passed",
-              "duration": 498029
+              "duration": 522563
             },
             "line": 11,
             "match": {
-              "location": "C:\\Optima\\step-definitions\\optima-steps.js:55"
+              "location": "/Users/vinitkumar/Documents/work/functionalTestScripts/step-definitions/optima-steps.js:55"
             }
           },
           {
@@ -117,11 +117,11 @@
             "name": "user clicks on Switch Now button on the offerings page",
             "result": {
               "status": "passed",
-              "duration": 390419
+              "duration": 318433
             },
             "line": 12,
             "match": {
-              "location": "C:\\Optima\\step-definitions\\optima-steps.js:60"
+              "location": "/Users/vinitkumar/Documents/work/functionalTestScripts/step-definitions/optima-steps.js:60"
             }
           },
           {
@@ -130,11 +130,11 @@
             "name": "verify the alert text",
             "result": {
               "status": "passed",
-              "duration": 360967
+              "duration": 448063
             },
             "line": 13,
             "match": {
-              "location": "C:\\Optima\\step-definitions\\optima-steps.js:65"
+              "location": "/Users/vinitkumar/Documents/work/functionalTestScripts/step-definitions/optima-steps.js:65"
             }
           },
           {
@@ -143,11 +143,11 @@
             "name": "user logs out from the application",
             "result": {
               "status": "passed",
-              "duration": 382112
+              "duration": 365664
             },
             "line": 14,
             "match": {
-              "location": "C:\\Optima\\step-definitions\\optima-steps.js:70"
+              "location": "/Users/vinitkumar/Documents/work/functionalTestScripts/step-definitions/optima-steps.js:70"
             }
           },
           {
@@ -155,11 +155,11 @@
             "keyword": "After ",
             "result": {
               "status": "passed",
-              "duration": 67677510169
+              "duration": 68132731763
             },
             "hidden": true,
             "match": {
-              "location": "C:\\Optima\\node_modules\\selenium-cucumber-js\\runtime\\world.js:221"
+              "location": "/Users/vinitkumar/Documents/work/functionalTestScripts/node_modules/selenium-cucumber-js/runtime/world.js:250"
             }
           }
         ],
@@ -175,14 +175,14 @@
           {
             "arguments": [],
             "keyword": "Given ",
-            "name": "user navigates to \"http://localhost:3004/#/\"",
+            "name": "user navigates to \"http://localhost:8082/#/\"",
             "result": {
               "status": "passed",
-              "duration": 284697
+              "duration": 145546
             },
             "line": 21,
             "match": {
-              "location": "C:\\Optima\\step-definitions\\optima-steps.js:10"
+              "location": "/Users/vinitkumar/Documents/work/functionalTestScripts/step-definitions/optima-steps.js:10"
             }
           },
           {
@@ -191,11 +191,11 @@
             "name": "user enters the login name \"john\"",
             "result": {
               "status": "passed",
-              "duration": 1016826
+              "duration": 448610
             },
             "line": 22,
             "match": {
-              "location": "C:\\Optima\\step-definitions\\optima-steps.js:15"
+              "location": "/Users/vinitkumar/Documents/work/functionalTestScripts/step-definitions/optima-steps.js:15"
             }
           },
           {
@@ -204,11 +204,11 @@
             "name": "enters the password \"doe\"",
             "result": {
               "status": "passed",
-              "duration": 905439
+              "duration": 501431
             },
             "line": 23,
             "match": {
-              "location": "C:\\Optima\\step-definitions\\optima-steps.js:20"
+              "location": "/Users/vinitkumar/Documents/work/functionalTestScripts/step-definitions/optima-steps.js:20"
             }
           },
           {
@@ -217,11 +217,11 @@
             "name": "click on Sign In button",
             "result": {
               "status": "passed",
-              "duration": 505203
+              "duration": 240323
             },
             "line": 24,
             "match": {
-              "location": "C:\\Optima\\step-definitions\\optima-steps.js:25"
+              "location": "/Users/vinitkumar/Documents/work/functionalTestScripts/step-definitions/optima-steps.js:25"
             }
           },
           {
@@ -230,11 +230,11 @@
             "name": "verify the total debit account balance for john",
             "result": {
               "status": "passed",
-              "duration": 1406868
+              "duration": 603836
             },
             "line": 25,
             "match": {
-              "location": "C:\\Optima\\step-definitions\\optima-steps.js:40"
+              "location": "/Users/vinitkumar/Documents/work/functionalTestScripts/step-definitions/optima-steps.js:40"
             }
           },
           {
@@ -243,11 +243,11 @@
             "name": "verify the total credit account balance for john",
             "result": {
               "status": "passed",
-              "duration": 2113322
+              "duration": 1125592
             },
             "line": 26,
             "match": {
-              "location": "C:\\Optima\\step-definitions\\optima-steps.js:45"
+              "location": "/Users/vinitkumar/Documents/work/functionalTestScripts/step-definitions/optima-steps.js:45"
             }
           },
           {
@@ -256,11 +256,11 @@
             "name": "user clicks on yes button to optimise his/her savings",
             "result": {
               "status": "passed",
-              "duration": 1027398
+              "duration": 218435
             },
             "line": 27,
             "match": {
-              "location": "C:\\Optima\\step-definitions\\optima-steps.js:50"
+              "location": "/Users/vinitkumar/Documents/work/functionalTestScripts/step-definitions/optima-steps.js:50"
             }
           },
           {
@@ -269,11 +269,11 @@
             "name": "user clicks on Agree and Pay button on payout page",
             "result": {
               "status": "passed",
-              "duration": 1176921
+              "duration": 1192603
             },
             "line": 28,
             "match": {
-              "location": "C:\\Optima\\step-definitions\\optima-steps.js:55"
+              "location": "/Users/vinitkumar/Documents/work/functionalTestScripts/step-definitions/optima-steps.js:55"
             }
           },
           {
@@ -282,11 +282,11 @@
             "name": "user clicks on Switch Now button on the offerings page",
             "result": {
               "status": "passed",
-              "duration": 3147140
+              "duration": 232157
             },
             "line": 29,
             "match": {
-              "location": "C:\\Optima\\step-definitions\\optima-steps.js:60"
+              "location": "/Users/vinitkumar/Documents/work/functionalTestScripts/step-definitions/optima-steps.js:60"
             }
           },
           {
@@ -295,11 +295,11 @@
             "name": "verify the alert text",
             "result": {
               "status": "passed",
-              "duration": 602243
+              "duration": 246782
             },
             "line": 30,
             "match": {
-              "location": "C:\\Optima\\step-definitions\\optima-steps.js:65"
+              "location": "/Users/vinitkumar/Documents/work/functionalTestScripts/step-definitions/optima-steps.js:65"
             }
           },
           {
@@ -308,11 +308,11 @@
             "name": "user logs out from the application",
             "result": {
               "status": "passed",
-              "duration": 783858
+              "duration": 407156
             },
             "line": 31,
             "match": {
-              "location": "C:\\Optima\\step-definitions\\optima-steps.js:70"
+              "location": "/Users/vinitkumar/Documents/work/functionalTestScripts/step-definitions/optima-steps.js:70"
             }
           },
           {
@@ -320,11 +320,11 @@
             "keyword": "After ",
             "result": {
               "status": "passed",
-              "duration": 66851050261
+              "duration": 66835976247
             },
             "hidden": true,
             "match": {
-              "location": "C:\\Optima\\node_modules\\selenium-cucumber-js\\runtime\\world.js:221"
+              "location": "/Users/vinitkumar/Documents/work/functionalTestScripts/node_modules/selenium-cucumber-js/runtime/world.js:250"
             }
           }
         ],
@@ -337,6 +337,6 @@
     "line": 1,
     "name": "Use Optima app to suggest best payout plan to a user by using lower AER debit account to pay off higher APR credit outstandings",
     "tags": [],
-    "uri": "C:/Optima/features/optima.feature"
+    "uri": "/Users/vinitkumar/Documents/work/functionalTestScripts/features/optima.feature"
   }
 ]

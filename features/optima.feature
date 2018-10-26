@@ -15,7 +15,7 @@ Feature: Use Optima app to suggest best payout plan to a user by using lower AER
 
     Examples:
     |url                      |login_name    |password    |
-    |http://localhost:3004/#/ |alice         |wonderland  |
+    |http://localhost:8082/#/ |alice         |wonderland  |
 
     Scenario Outline: 2 :Offering a new Lloyds credit card of lower APR to a user whose total credit outstandings are more than his total debit accounts balance
         Given user navigates to "<url>"
@@ -32,5 +32,5 @@ Feature: Use Optima app to suggest best payout plan to a user by using lower AER
 
     Examples:
     |url                      |login_name   |password  |
-    |http://localhost:3004/#/ |john         |doe       |
+    |http://localhost:8082/#/ |john         |doe       |
 
