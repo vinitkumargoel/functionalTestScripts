@@ -1,6 +1,6 @@
 describe("Open Banking Regration", () => {
     it("AC1: Should see John Login Area", () => {
-        cy.visit("http://localhost:8082/");
+        cy.visit("http://192.168.1.13:8082/");
         cy.get("#username").clear().type("john");
         cy.get("#pwd").clear().type("doe");
         cy.get(".button_background").click();
@@ -24,7 +24,7 @@ describe("Open Banking Regration", () => {
         cy.contains("Your transaction is being processed.").should("be.visible");
     });
     it("AC1: Should see lice Login Area", () => {
-        cy.visit("http://localhost:8082/");
+        cy.visit("http://192.168.1.13:8082/");
         cy.get("#username").clear().type("alice");
         cy.get("#pwd").clear().type("wonderland");
         cy.get(".button_background").click();

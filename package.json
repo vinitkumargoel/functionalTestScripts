@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": ""
+    "test:dev": "/node_modules/.bin/cypress open",
+    "test": "./node_modules/.bin/cypress run --config numTestsKeptInMemory=0,video=false,pluginsFile=cypress/plugins/index.js"
   },
   "repository": {
     "type": "git",
