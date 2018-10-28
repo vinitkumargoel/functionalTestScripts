@@ -6,5 +6,7 @@ Cypress.Commands.add("given", () => {
 });
 
 Cypress.Commands.add("goToLoginPage", () => {
+    console.log("http://" + url);
+    
     cy.visit("http://" + url);
 });
